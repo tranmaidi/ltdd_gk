@@ -1,9 +1,7 @@
 package com.example.Loc.Service.Impl;
 
 import com.example.Loc.Modal.Account;
-import com.example.Loc.Modal.BillDetail;
 import com.example.Loc.Responsitory.AccountRepository;
-import com.example.Loc.Responsitory.BillDetailRepository;
 import com.example.Loc.Service.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
